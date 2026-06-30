@@ -1,0 +1,15 @@
+From: security-update@paypaI.com
+To: user@example.com
+Subject: Urgent! Your Account Will Be Suspended
+
+Dear Customer,
+
+Your account has been temporarily restricted.
+Click the link below within 24 hours to verify your account.
+
+http://paypal.verify-login-security.com
+
+Failure to verify will permanently suspend your account.
+
+Thank you,
+PayPal Security Team
